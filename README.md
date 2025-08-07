@@ -1,5 +1,3 @@
-### ✅ `README.md`
-
 # Permit Search API (Austin, TX)
 
 This project provides a semantic search API over construction permit data from the City of Austin. It leverages Sentence Transformers for text embeddings and ChromaDB for efficient similarity-based retrieval.
