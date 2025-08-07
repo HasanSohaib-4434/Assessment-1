@@ -1,0 +1,6 @@
+{
+  "query": "new mechanical Drive",
+  "filters": {
+    "permit_type_desc": "Mechanical Permit"
+  }
+}
