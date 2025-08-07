@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Mechanical Permit | Commercial | Change Out | Replacement of complete existing central heat and air system with or without duct work | 1115 KINNEY AVE BLDG 1 UNIT 5 | AUSTIN | Active",
+    "metadata": {
+      "city": "AUSTIN",
+      "floors": 0,
+      "permit_id": "2025-094349 MP",
+      "housing_units": 0,
+      "zip": "78704",
+      "permit_class": "Commercial",
+      "project_id": "13557075",
+      "valuation": 0,
+      "status": "Active",
+      "permit_type_desc": "Mechanical Permit",
+      "work_class": "Change Out"
+    },
+    "similarity": 1.482761263847351
+  },
+  {
+    "text": "Mechanical Permit | Residential | Change Out | Replacement of complete existing central heat and air system with or without duct work SIDE: A | 2603 HOWELLWOOD WAY BLDG A | AUSTIN | Active",
+    "metadata": {
+      "work_class": "Change Out",
+      "permit_type_desc": "Mechanical Permit",
+      "valuation": 0,
+      "project_id": "13554375",
+      "status": "Active",
+      "housing_units": 0,
+      "city": "AUSTIN",
+      "floors": 0,
+      "zip": "78748",
+      "permit_class": "Residential",
+      "permit_id": "2025-092058 MP"
+    },
+    "similarity": 1.5052475929260254
+  },
+  {
+    "text": "Mechanical Permit | Residential | Change Out | Replacement of complete existing central heat and air system with or without duct work | 7512 KINROSS TRL | AUSTIN | Active",
+    "metadata": {
+      "project_id": "13556366",
+      "valuation": 0,
+      "work_class": "Change Out",
+      "permit_id": "2025-093769 MP",
+      "housing_units": 0,
+      "permit_class": "Residential",
+      "zip": "78754",
+      "city": "AUSTIN",
+      "permit_type_desc": "Mechanical Permit",
+      "status": "Active",
+      "floors": 0
+    },
+    "similarity": 1.525250792503357
+  }
+]

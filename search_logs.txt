@@ -1,0 +1,13 @@
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:{"timestamp": "2025-08-06T19:07:54.141818", "query": "new mechanical unit in Nancy Drive", "filters": {"permit_type_desc": "Mechanical Permit"}, "top_result_ids": ["2025-094349 MP", "2025-092058 MP"]}
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:{"timestamp": "2025-08-07T06:39:48.971146", "query": "new mechanical unit in Nancy Drive", "filters": {"permit_type_desc": "Mechanical Permit"}, "top_result_ids": ["2025-094349 MP", "2025-092058 MP"]}
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:{"timestamp": "2025-08-07T07:55:43.906874", "query": "new mechanical Drive", "filters": {"permit_type_desc": "Mechanical Permit"}, "top_result_ids": ["2025-094349 MP", "2025-092058 MP"]}
+INFO:root:{"timestamp": "2025-08-07T08:20:48.225210", "query": "new mechanical Drive", "filters": {"permit_type_desc": "Mechanical Permit"}, "top_result_ids": ["2025-094349 MP", "2025-092058 MP"]}

@@ -1,0 +1,323 @@
+[
+  {
+    "permit_id": "2025-096849 EP",
+    "type": {
+      "code": "EP",
+      "description": "Electrical Permit",
+      "class": "Residential",
+      "work_class": "Homebuilder Loop"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-08-01",
+      "issue_date": "2025-08-04",
+      "expires_date": "2026-01-31"
+    },
+    "location": {
+      "address": "2705 TOWY RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "latitude": "30.39665183",
+      "longitude": "-97.62520744",
+      "jurisdiction": "AUSTIN 2 MILE ETJ",
+      "council_district": null
+    },
+    "contractor": {
+      "name": "William B. Crist Jr.",
+      "company": "IES Residential, Inc.",
+      "phone": "5122520040",
+      "address": "821  GRAND AVENUE PARKWAY   412, PFLUGERVILLE, 78660-____"
+    },
+    "details": {
+      "description": "Homebuilder Loop Austin 2 Mile ETJ Austin Energy",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13559916",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13559916"
+    }
+  },
+  {
+    "permit_id": "2025-094514 EP",
+    "type": {
+      "code": "EP",
+      "description": "Electrical Permit",
+      "class": "Commercial",
+      "work_class": "Wall"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-07-31",
+      "issue_date": "2025-08-04",
+      "expires_date": "2026-01-31"
+    },
+    "location": {
+      "address": "1900 ALDRICH ST UNIT 100",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78723",
+      "latitude": "30.29891081",
+      "longitude": "-97.70503445",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "9"
+    },
+    "contractor": null,
+    "details": {
+      "description": "(1) reverse lit aluminium logo reads Merit",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13559397",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13559397"
+    }
+  },
+  {
+    "permit_id": "2025-094349 MP",
+    "type": {
+      "code": "MP",
+      "description": "Mechanical Permit",
+      "class": "Commercial",
+      "work_class": "Change Out"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-07-28",
+      "issue_date": "2025-08-03",
+      "expires_date": "2026-01-30"
+    },
+    "location": {
+      "address": "1115 KINNEY AVE BLDG 1 UNIT 5",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "latitude": "30.25614721",
+      "longitude": "-97.76561058",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "9"
+    },
+    "contractor": {
+      "name": "James Price",
+      "company": "Radiant Plumbing and Air Conditioning",
+      "phone": "5126904935",
+      "address": "901  REINLI STREET, AUSTIN, 78751-____"
+    },
+    "details": {
+      "description": "Replacement of complete existing central heat and air system with or without duct work",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13557075",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13557075"
+    }
+  },
+  {
+    "permit_id": "2025-093769 MP",
+    "type": {
+      "code": "MP",
+      "description": "Mechanical Permit",
+      "class": "Residential",
+      "work_class": "Change Out"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-07-27",
+      "issue_date": "2025-08-03",
+      "expires_date": "2026-01-30"
+    },
+    "location": {
+      "address": "7512 KINROSS TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78754",
+      "latitude": "30.35569843",
+      "longitude": "-97.5998151",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "1"
+    },
+    "contractor": {
+      "name": "James Price",
+      "company": "Radiant Plumbing and Air Conditioning",
+      "phone": "5126904935",
+      "address": "901  REINLI STREET, AUSTIN, 78751-____"
+    },
+    "details": {
+      "description": "Replacement of complete existing central heat and air system with or without duct work",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13556366",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13556366"
+    }
+  },
+  {
+    "permit_id": "2025-076793 DS",
+    "type": {
+      "code": "DS",
+      "description": "Driveway / Sidewalks",
+      "class": "Residential",
+      "work_class": "New"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-07-09",
+      "issue_date": "2025-07-31",
+      "expires_date": "2026-01-27"
+    },
+    "location": {
+      "address": "2230 WEBBERVILLE RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78702",
+      "latitude": "30.26222314",
+      "longitude": "-97.71642539",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "1"
+    },
+    "contractor": null,
+    "details": {
+      "description": "Construct new driveway approach of 24 FT",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13537110",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13537110"
+    }
+  },
+  {
+    "permit_id": "2025-092058 MP",
+    "type": {
+      "code": "MP",
+      "description": "Mechanical Permit",
+      "class": "Residential",
+      "work_class": "Change Out"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-07-23",
+      "issue_date": "2025-07-31",
+      "expires_date": "2026-01-27"
+    },
+    "location": {
+      "address": "2603 HOWELLWOOD WAY BLDG A",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78748",
+      "latitude": "30.17578392",
+      "longitude": "-97.83331845",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "5"
+    },
+    "contractor": {
+      "name": "Albert D'Andrea",
+      "company": "McCullough Heating & Air",
+      "phone": "5122800011",
+      "address": "2620  BUELL AVENUE, AUSTIN, 78757"
+    },
+    "details": {
+      "description": "Replacement of complete existing central heat and air system with or without duct work SIDE: A",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13554375",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13554375"
+    }
+  },
+  {
+    "permit_id": "2025-095455 PP",
+    "type": {
+      "code": "PP",
+      "description": "Plumbing Permit",
+      "class": "Residential",
+      "work_class": "Irrigation"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-03-13",
+      "issue_date": "2025-07-31",
+      "expires_date": "2026-01-28"
+    },
+    "location": {
+      "address": "12012 CEARLEY DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78758",
+      "latitude": "30.40690156",
+      "longitude": "-97.68791274",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "7"
+    },
+    "contractor": null,
+    "details": {
+      "description": "Installing a new irrigation system",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13558350",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13558350"
+    }
+  },
+  {
+    "permit_id": "2025-073973 PP",
+    "type": {
+      "code": "PP",
+      "description": "Plumbing Permit",
+      "class": "Residential",
+      "work_class": "Change Out"
+    },
+    "status": {
+      "current": "Active",
+      "applied_date": "2025-06-13",
+      "issue_date": "2025-07-31",
+      "expires_date": "2026-01-27"
+    },
+    "location": {
+      "address": "3302 DOOLIN DR BLDG A",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "latitude": "30.23789114",
+      "longitude": "-97.77898143",
+      "jurisdiction": "AUSTIN FULL PURPOSE",
+      "council_district": "5"
+    },
+    "contractor": {
+      "name": "Jason Oliphant",
+      "company": "Reliant Plumbing",
+      "phone": "5126754420",
+      "address": "3841  SR RR 620, Austin, 78734-____"
+    },
+    "details": {
+      "description": "Replacement of an existing water heater Replace 40gal gas Water heater",
+      "valuation": null,
+      "sqft": null,
+      "housing_units": null,
+      "floors": null
+    },
+    "project": {
+      "id": "13533965",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13533965"
+    }
+  }
+]
